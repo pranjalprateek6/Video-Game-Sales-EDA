@@ -9,7 +9,7 @@ In this project, we explore and analyze data related to video game sales. The da
 ## Contents
 
 - `video-game-eda.ipynb`: Jupyter Notebook containing the EDA process, including data loading, data cleaning, analysis, and visualization.
-- `data.csv`: The dataset used for the analysis.
+- `vgsales.csv`: The dataset used for the analysis.
 - `README.md`: This file, providing an overview of the project.
 
 ## Usage
