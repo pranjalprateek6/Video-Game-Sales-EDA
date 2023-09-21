@@ -16,7 +16,7 @@ In this project, we explore and analyze data related to video game sales. The da
 Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/video-game-eda.git
+   git clone https://github.com/pranjalprateek6/Video-Game-Sales-EDA
    ```
 Open and run the Jupyter Notebook video-game-sales-eda.ipynb to view the analysis, insights, and visualizations.
 
